@@ -5,5 +5,6 @@ public class main {
         Setup setup = new Setup();
         setup.printparameter(new ResponesMyparaFactory(),"manager","oh","res");
         setup.printparameter(new SorMyparaFactory(),"manager","oh","sor");
+        setup.printparameter(new SorMyparaFactory(),"manager","oh","1");
     }
 }
